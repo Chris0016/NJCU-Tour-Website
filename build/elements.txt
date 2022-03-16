@@ -1,0 +1,30 @@
+<figure>
+            <img
+              class="img-fluid"
+              style="margin-left: 12%"
+              src="img/City Planning/main-entrance.jpg"
+              alt="Alley along West Side"
+            />
+            <br />
+            <figurecaption>, Credit: Google.com</figurecaption>
+          </figure>
+
+
+  <div class="col-md-6" style="margin-top: 40px">
+              <div class="left_img">
+                <img
+                  class="img-fluid"
+                  src="img/City Planning/feature-2-1.png"
+                  alt=""
+                />
+              </div>
+            </div>
+            <div class="col-md-6" style="margin-top: 40px">
+              <div class="left_img">
+                <img
+                  class="img-fluid"
+                  src="img/City Planning/feature-2-2.png"
+                  alt=""
+                />
+              </div>
+            </div>
